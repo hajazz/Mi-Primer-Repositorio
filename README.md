@@ -1,5 +1,4 @@
 # Mi-Primer-Repositorio
-Probando esta cosa xdxdxd
 
 #Pasos para Ejecutar un codigo 
 
