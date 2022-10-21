@@ -1,1 +1,1 @@
-printf("Hola Clase")
+print("Hola Clase")
